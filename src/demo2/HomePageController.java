@@ -18,7 +18,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 
 import dao.HackerDao;
 
-@Controller()
+@Controller
 public class HomePageController {
 	
 	//will inject DAO from XML file  
